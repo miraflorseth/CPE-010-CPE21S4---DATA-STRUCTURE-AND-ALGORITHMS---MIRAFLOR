@@ -1,1 +1,4 @@
-# CPE-010-CPE21S4---DATA-STRUCTURE-AND-ALGORITHMS---MIRAFLOR
+# Student Information 
+> Student Name: Miraflor, Seth Carlo T.
+> Repository: CPE21S4 - DATA STRUCTURE AND ALGORITHMS
+> Primary Language: (C++)
