@@ -5,3 +5,5 @@
 > Repository: CPE21S4 - DATA STRUCTURE AND ALGORITHMS
 > 
 > Primary Language: (C++)
+>
+> # Course Objective
