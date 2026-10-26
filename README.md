@@ -31,5 +31,4 @@ All my Data Structures and Algorithms activities are organized according to the 
 - [HOA 5 - Multithreading](FINALS/HOA5-Multithreading/)
 - [HOA 6 - Final Activity](FINALS/HOA6-Final-Activity/)
 
-- A C++ (.cpp) source code file.
 
