@@ -33,7 +33,7 @@ Activity include queues, searching techniques, and sorting algorithms.
 
 | Folder | Description |
 |---|---|
-| [📁 Seatwork](./MIDTERM/SEATWORK/) | My seatwork activities |
+| [📁 Seatwork](./MIDTERM/Seatwork/) | My seatwork activities |
 | [📁 Hands-on Activities (HOA)](./MIDTERM/Hands-On-Activity1/) | My programming activities |
 
 ### 🔵 FINALS
@@ -42,7 +42,7 @@ Activity include trees, graphs, and algorithm analysis.
 
 | Folder | Description |
 |---|---|
-| [📁 Seatwork](./FINALS/SEATWORK/) | My seatwork activities |
+| [📁 Seatwork](./FINALS/Seatwork/) | My seatwork activities |
 | [📁 Hands-on Activities (HOA)](./FINALS/HOA/) | My programming activities |
 
 ---
