@@ -13,3 +13,23 @@
 >
 >**By the end of the course, students will be able to analyze algorithm efficiency, select appropriate data structures and algorithms for specific problems,
 > and apply these concepts to develop efficient and effective software solutions.**
+>
+>
+## 📚 Course Activities
+
+All my Data Structures and Algorithms activities are organized according to the academic period.
+
+### 🟢 PRELIM
+- [HOA 1 - Searching and Sorting](PRELIM/HOA1-Searching-and-Sorting/)
+- [HOA 2 - Arrays](PRELIM/HOA2-Arrays/)
+
+### 🟡 MIDTERM
+- [HOA 3 - Queues](MIDTERM/HOA3-Queues/)
+- [HOA 4 - Dynamic Programming](MIDTERM/HOA4-Dynamic-Programming/)
+
+### 🔵 FINALS
+- [HOA 5 - Multithreading](FINALS/HOA5-Multithreading/)
+- [HOA 6 - Final Activity](FINALS/HOA6-Final-Activity/)
+
+- A C++ (.cpp) source code file.
+
