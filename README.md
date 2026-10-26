@@ -1,34 +1,60 @@
-# 👤 Student Information 
+# 📚 Data Structures and Algorithms
 
- - **Student Name:** Miraflor, Seth Carlo T.
- - **Repository:** `CPE21S4--CPE010--DATA-STRUCTURES-AND-ALGORITHMS`
- - **Primary Language:** C++
->
-> # 🎯 Course Objective
->
->**This course aims to provide students with a fundamental understanding of data structures and algorithms, enabling them to organize, store, process, and manage data efficiently.**
->
->  **Students will develop problem-solving and logical-thinking skills by learning and implementing various data structures, such as arrays, linked lists, stacks, queues, trees,
-> and graphs, as well as algorithms for searching, sorting, and data manipulation.**
->
->**By the end of the course, students will be able to analyze algorithm efficiency, select appropriate data structures and algorithms for specific problems,
-> and apply these concepts to develop efficient and effective software solutions.**
->
->
-## 📚 Course Activities
+Welcome to my repository! This is where I keep my activities, exercises, and C++ programs for our Data Structures and Algorithms subject.
 
-All my Data Structures and Algorithms activities are organized according to the academic period.
+## 👨‍🎓 Student Information
+
+- **Name:** Miraflor, Seth Carlo T.
+- **Course:** CPE-010 / Data Structures and Algorithms
+- **Programming Language:** C++
+- **IDE:** Visual Studio Code
+
+---
+
+## 📂 My Course Activities
+
+I organized my activities according to our grading periods so they are easier to find and access.
 
 ### 🟢 PRELIM
-- [HOA 1 - Searching and Sorting](PRELIM/HOA1-Searching-and-Sorting/)
-- [HOA 2 - Arrays](PRELIM/HOA2-Arrays/)
+
+Topics include arrays, linked lists, stacks, and the introduction to data structures.
+
+| Folder | Description |
+|---|---|
+| [📁 Seatwork](./PRELIM/SEATWORK/) | My seatwork activities |
+| [📁 Hands-on Activities (HOA)](./PRELIM/HOA/) | My programming activities |
 
 ### 🟡 MIDTERM
-- [HOA 3 - Queues](MIDTERM/HOA3-Queues/)
-- [HOA 4 - Dynamic Programming](MIDTERM/HOA4-Dynamic-Programming/)
+
+Topics include queues, searching techniques, and sorting algorithms.
+
+| Folder | Description |
+|---|---|
+| [📁 Seatwork](./MIDTERM/SEATWORK/) | My seatwork activities |
+| [📁 Hands-on Activities (HOA)](./MIDTERM/HOA/) | My programming activities |
 
 ### 🔵 FINALS
-- [HOA 5 - Multithreading](FINALS/HOA5-Multithreading/)
-- [HOA 6 - Final Activity](FINALS/HOA6-Final-Activity/)
 
+Topics include trees, graphs, and algorithm analysis.
 
+| Folder | Description |
+|---|---|
+| [📁 Seatwork](./FINALS/SEATWORK/) | My seatwork activities |
+| [📁 Hands-on Activities (HOA)](./FINALS/HOA/) | My programming activities |
+
+---
+
+## 💻 Files Included
+
+Most of my activity folders contain:
+
+- **PDF files** – activity instructions, answers, or documentation
+- **CPP files** – C++ source code for my programs
+
+## 🎯 What I Learned
+
+Through these activities, I practice writing C++ programs, understanding different data structures, and solving problems using algorithms. This repository also helps me keep my schoolwork organized.
+
+---
+
+*Made for my Data Structures and Algorithms course.*
