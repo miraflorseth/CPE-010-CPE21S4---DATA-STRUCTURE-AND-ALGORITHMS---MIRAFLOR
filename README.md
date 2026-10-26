@@ -9,6 +9,9 @@ Welcome to my repository! This is where I keep my activities, exercises, and C++
 - **Programming Language:** C++
 - **Program Application** Visual Studio Code
 
+## 🎯 Course Objective
+This course make me understand data structures and algorithms using C++. Through different activities and exercises, I learn how to organize data, create programs, and solve problems step by step. This course also helps me improve my logical thinking and programming skills, which I can use in future projects and other programming subjects.
+
 ---
 
 ## 📂 My Course Activities
