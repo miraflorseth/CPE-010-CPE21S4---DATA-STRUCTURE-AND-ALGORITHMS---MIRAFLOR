@@ -22,7 +22,7 @@ Topics include arrays, linked lists, stacks, and the introduction to data struct
 | Folder | Description |
 |---|---|
 | [📁 Seatwork](./PRELIM/SEATWORK/) | My seatwork activities |
-| [📁 Hands-on Activities (HOA](./PRELIM/Hands-On-Activity/) | My programming activities |
+| [📁 Hands-on Activities (HOA)](./PRELIM/Hands-On-Activity/) | My programming activities |
 
 ### 🟡 MIDTERM
 
