@@ -17,7 +17,7 @@ I organized my activities according to our grading periods so they are easier to
 
 ### 🟢 PRELIM
 
-Topics include arrays, linked lists, stacks, and the introduction to data structures.
+Activity include arrays, linked lists, stacks, and the introduction to data structures.
 
 | Folder | Description |
 |---|---|
@@ -26,7 +26,7 @@ Topics include arrays, linked lists, stacks, and the introduction to data struct
 
 ### 🟡 MIDTERM
 
-Topics include queues, searching techniques, and sorting algorithms.
+Activity include queues, searching techniques, and sorting algorithms.
 
 | Folder | Description |
 |---|---|
@@ -35,7 +35,7 @@ Topics include queues, searching techniques, and sorting algorithms.
 
 ### 🔵 FINALS
 
-Topics include trees, graphs, and algorithm analysis.
+Activity include trees, graphs, and algorithm analysis.
 
 | Folder | Description |
 |---|---|
@@ -46,14 +46,14 @@ Topics include trees, graphs, and algorithm analysis.
 
 ## 💻 Files Included
 
-Most of my activity folders contain:
+All of my activity folders contain:
 
 - **PDF files** – activity instructions, answers, or documentation
 - **CPP files** – C++ source code for my programs
 
 ## 🎯 What I Learned
 
-Through these activities, I practice writing C++ programs, understanding different data structures, and solving problems using algorithms. This repository also helps me keep my schoolwork organized.
+Through these activities, I practiced writing C++ programs, learned about different data structures, and improved my problem-solving skills using algorithms. This repository also helps me keep my schoolwork organized and I can easily go back to my previous activities whenever I need to review or study for exams.
 
 ---
 
