@@ -31,7 +31,7 @@ Topics include queues, searching techniques, and sorting algorithms.
 | Folder | Description |
 |---|---|
 | [📁 Seatwork](./MIDTERM/SEATWORK/) | My seatwork activities |
-| [📁 Hands-on Activities (HOA)](./MIDTERM/HOA/) | My programming activities |
+| [📁 Hands-on Activities (HOA)](./MIDTERM/Hands-On-Activity1/) | My programming activities |
 
 ### 🔵 FINALS
 
