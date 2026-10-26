@@ -7,7 +7,7 @@ Welcome to my repository! This is where I keep my activities, exercises, and C++
 - **Name:** Miraflor, Seth Carlo T.
 - **Course:** CPE-010 / Data Structures and Algorithms
 - **Programming Language:** C++
-- **IDE:** Visual Studio Code
+- **Program Application** Visual Studio Code
 
 ---
 
